@@ -1,0 +1,74 @@
+#textdomain wesnoth-Fate_of_a_Princess
+
+---Information---
+
+The portraits of Háwclyn: galtrid.png (Legend of Wesmere)
+
+The portraits of Orcish Mages: (Son of the Black Eye)
+
+The portraits of Ghidsaurs: kharakrahs.png (Sceptre_of_Fire)
+
+The image of Alingwen/Ameck (baby) on the story-line: (Heir to the Thrown)
+
+The image of Chief Dessen the Elder: p_baldras.png (Liberty)
+
+attack icons: 
+*lightfocus.png, flame sword.png from “Era of Magic” by inferno8 
+
+*needle.png, greenwood-sword.png from “War of Chaos Era” by Madnessbane
+              
+*sword-astral.png from “Liberty”
+
+items/images: 
+*foap-amulet.png, base-image, is from “Eight of Cembulad” by WYRMY
+*ladder.png from “Struggle for Freedom” by WYRMY
+*caravan.png, and the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
+
+Special weapon (WML): 
+*Straight lightning from Light Focusing of “Era of Magic” by inferno8
+      
+
+Unit Informations:
+
+From: War of Chaos Era (by Madnessbane)
+    
+unit name:         base unit       Modifications(except coding for 1.5/1.6)  
+---------------------------------------------------------------------------
+Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus             
+                                                               (ranged)
+                                   resistance: add                            
+                                             blade=70,pierce=70,impact=60
+                                   remove weapon: elvish flame
+                                   hitpoints: 53->60
+                                   movement_type: casterfoot->elusivefoot
+                                   movement_cost: add forest=1
+                                   experience: 55->120 
+                                   images: color, staff, adding melee-image
+                                           (rebuild images)
+                                   race: The Elves->elf
+                                   usage: archer->mixed fighter
+---------------------------------------------------------------------------
+
+From: Era of Magic (by inferno8)
+
+Orcish Berserker.
+
+---------------------------------------------------------------------------
+
+other units:
+Foap Unicorn, Foap Silver Unicorn (Fmunoz)
+
+---------------------------------------------------------------------------
+##||Other Unit-images Information||##
+
+Rogue Mage, Shadow Mage, and Shadow Lord: from Liberty
+
+Dwarvish Runesmith: from Scepter of Fire
+
+Elvish Major: from Under the Burning Suns
+
+Snow Fairy (healing anim. only): from Under the Burning Suns
+
+Drake Alchemist as the base unit: from Legend of Wesmere (before got into the mainline)
+
+===========================================================================

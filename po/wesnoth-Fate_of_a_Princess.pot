@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-02-08 02:47+0100\n"
+"POT-Creation-Date: 2010-02-21 23:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid ""
 "After the numbers of humans moved up to the Farnorth at 200YW, an elvish queen had two daughters in the Greenwood. When their mother died, the elder daughter became queen, but the younger left the Greenwood and was not seen for many years. When a crisis arose requiring her return, it fell to two brave young elves to make a perilous journey to find her and bring her back to her former home ...\n"
 "\n"
-"Fate of a Princess, version 0.6.1\n"
+"Fate of a Princess, version 0.6.2\n"
 "Required Wesnoth version: 1.7.8 or higher\n"
 "\n"
 "This is a two-part campaign totalling 25 scenarios, including some which are dialogue-only.\n"
@@ -3206,37 +3206,37 @@ msgid "Death of Chief Dessen the Elder"
 msgstr ""
 
 #. [message]: id=Virgil
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:392
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:388
 msgid "Ooow!"
 msgstr ""
 
 #. [message]: id=Hawclyn
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:400
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:396
 msgid "It seems his horse is not cursed."
 msgstr ""
 
 #. [message]: id=Eameral
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:411
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:407
 msgid "Oh, no! I told you not to kill him. It is not his fault. All of these people are controlled by Gulder, except orcs. We have to let him lead Dorest again after we destroy Gulder."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:424
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:420
 msgid "Aaaargh! We were supposed to get the whole northlands back with local allies ..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:435 ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:457
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:431 ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:453
 msgid "You gain a bonus of 100 gold!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:446
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:442
 msgid "Gulder! Gulder! Aiieee! ..."
 msgstr ""
 
 #. [message]: id=Eameral
-#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:478
+#: ./Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:474
 msgid "Very well, let us enter quickly. Gulder will probably be waiting for us."
 msgstr ""
 
@@ -3590,12 +3590,12 @@ msgid "Although the damage of hits for Drake Battler is less than one in Drake B
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Fate_of_a_Princess/units/Fugitive_Dragoon.cfg:64 ./Fate_of_a_Princess/units/Noble_Ranger.cfg:51 ./Fate_of_a_Princess/units/Drake_Battler.cfg:120 ./Fate_of_a_Princess/units/Fugitive_Cavalry.cfg:62 ./Fate_of_a_Princess/units/Noble_Avenger.cfg:53 ./Fate_of_a_Princess/units/Drake_Lord.cfg:129
+#: ./Fate_of_a_Princess/units/Fugitive_Dragoon.cfg:64 ./Fate_of_a_Princess/units/Noble_Ranger.cfg:51 ./Fate_of_a_Princess/units/Drake_Battler.cfg:120 ./Fate_of_a_Princess/units/Fugitive_Cavalry.cfg:62 ./Fate_of_a_Princess/units/Noble_Avenger.cfg:53 ./Fate_of_a_Princess/units/Sword_Drake.cfg:119 ./Fate_of_a_Princess/units/Drake_Lord.cfg:129
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Fate_of_a_Princess/units/Drake_Foap_Fighter.cfg:183 ./Fate_of_a_Princess/units/Drake_Battler.cfg:129 ./Fate_of_a_Princess/units/Drake_Lord.cfg:138
+#: ./Fate_of_a_Princess/units/Drake_Foap_Fighter.cfg:183 ./Fate_of_a_Princess/units/Drake_Battler.cfg:129 ./Fate_of_a_Princess/units/Sword_Drake.cfg:128 ./Fate_of_a_Princess/units/Drake_Lord.cfg:138
 msgid "fire breath"
 msgstr ""
 
@@ -3915,7 +3915,7 @@ msgid "There have been ice enchantresses dwelling in the high mountains of Wesno
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Fate_of_a_Princess/units/Orcish_Shaman.cfg:25 ./Fate_of_a_Princess/units/Ice_Enchantress.cfg:34 ./Fate_of_a_Princess/units/Ice_Sorceress.cfg:33 ./Fate_of_a_Princess/units/Mage_Rider.cfg:35 ./Fate_of_a_Princess/units/Orcish_Witch_Doctor.cfg:25 ./Fate_of_a_Princess/units/Mage_Dragoon.cfg:37
+#: ./Fate_of_a_Princess/units/Orcish_Shaman.cfg:25 ./Fate_of_a_Princess/units/Ice_Enchantress.cfg:34 ./Fate_of_a_Princess/units/Ice_Sorceress.cfg:33 ./Fate_of_a_Princess/units/Mage_Rider.cfg:41 ./Fate_of_a_Princess/units/Orcish_Witch_Doctor.cfg:25 ./Fate_of_a_Princess/units/Mage_Dragoon.cfg:43
 msgid "staff"
 msgstr ""
 
@@ -3950,7 +3950,7 @@ msgid "The mage dragoon rides a sturdy horse, albeit not the swiftest available,
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Fate_of_a_Princess/units/Mage_Rider.cfg:44 ./Fate_of_a_Princess/units/Mage_Dragoon.cfg:46
+#: ./Fate_of_a_Princess/units/Mage_Rider.cfg:50 ./Fate_of_a_Princess/units/Mage_Dragoon.cfg:52
 msgid "fireball"
 msgstr ""
 
@@ -4268,6 +4268,16 @@ msgstr ""
 msgid "pitchfork"
 msgstr ""
 
+#. [unit_type]: id=Sword Drake, race=drake
+#: ./Fate_of_a_Princess/units/Sword_Drake.cfg:4
+msgid "Sword Drake"
+msgstr ""
+
+#. [unit_type]: id=Sword Drake, race=drake
+#: ./Fate_of_a_Princess/units/Sword_Drake.cfg:20
+msgid "Although the damage of hits for Sword Drake is less than one in Drake Warrior, the number of hits is four each. In addition, the golden armor protects it as well."
+msgstr ""
+
 #. [unit_type]: id=Tomahawk, race=mechanical
 #: ./Fate_of_a_Princess/units/Tomahawk.cfg:4
 msgid "Tomahawk"
@@ -4416,7 +4426,7 @@ msgstr ""
 #. [part]
 #: ./Fate_of_a_Princess/utils/FoaP-intro.cfg:12
 msgid ""
-"Fate of Princess is a story in two parts. The first seven scenarios from part one, and remaining seventeen from part two. Note that many units have been customized although in most of them have been altered slightly.\n"
+"Fate of a Princess is a story in two parts. The first seven scenarios from part one, and remaining seventeen from part two. Note that many units have been customized although in most of them have been altered slightly.\n"
 "The dialog in this campaign is rated PG-13. The names and portraits in the game do not relate to anyone and anything in the real world save for the dwarf Turuk, who has been named in honor of the Wesnoth Forum Emperor with his knowledge and permission.\n"
 "Thank you for playing Fate of a Princess.\n"
 "Campaign Design: SkyOne\n"

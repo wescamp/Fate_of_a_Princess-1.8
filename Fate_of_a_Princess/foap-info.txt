@@ -15,7 +15,7 @@ The image of Chief Dessen the Elder: p_baldras.png (Liberty)
 attack icons: 
 *lightfocus.png, flame sword.png from “Era of Magic” by inferno8 
 
-*needle.png, greenwood-sword.png from “War of Chaos Era” by Madnessbane
+*needle.png from “War of Chaos Era” by Madnessbane
               
 *sword-astral.png from “Liberty”
 
@@ -51,7 +51,7 @@ Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus
 
 From: Era of Magic (by inferno8)
 
-Orcish Berserker.
+Orcish Berserker and Southern Occ.
 
 ---------------------------------------------------------------------------
 
@@ -59,6 +59,7 @@ other units:
 Foap Unicorn, Foap Silver Unicorn (Fmunoz)
 
 ---------------------------------------------------------------------------
+
 ##||Other Unit-images Information||##
 
 Rogue Mage, Shadow Mage, and Shadow Lord: from Liberty

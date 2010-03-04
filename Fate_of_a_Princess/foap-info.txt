@@ -1,5 +1,6 @@
 #textdomain wesnoth-Fate_of_a_Princess
 
+
 ---Information---
 
 The portraits of Háwclyn: galtrid.png (Legend of Wesmere)
@@ -13,16 +14,22 @@ The image of Alingwen/Ameck (baby) on the story-line: (Heir to the Thrown)
 The image of Chief Dessen the Elder: p_baldras.png (Liberty)
 
 attack icons: 
-*lightfocus.png, flame sword.png from “Era of Magic” by inferno8 
+*lightfocus.png, scimitar2.png from “Era of Magic” by inferno8 
 
 *needle.png from “War of Chaos Era” by Madnessbane
+
+*horn-white.png, horn-glowing.png by Fmunoz
               
 *sword-astral.png from “Liberty”
 
+
 items/images: 
-*foap-amulet.png, base-image, is from “Eight of Cembulad” by WYRMY
+*the base image of foap-amulet.png is from “Eight of Cembulad” by WYRMY
+
 *ladder.png from “Struggle for Freedom” by WYRMY
+
 *caravan.png, and the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
+
 
 Special weapon (WML): 
 *Straight lightning from Light Focusing of “Era of Magic” by inferno8
@@ -51,12 +58,12 @@ Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus
 
 From: Era of Magic (by inferno8)
 
-Orcish Berserker and Southern Occ.
+Orcish Berserker and Southern Orc.
 
 ---------------------------------------------------------------------------
 
 other units:
-Foap Unicorn, Foap Silver Unicorn (Fmunoz)
+Foap Unicorn, Foap Silver Unicorn (by Fmunoz)
 
 ---------------------------------------------------------------------------
 

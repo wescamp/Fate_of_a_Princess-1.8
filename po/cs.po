@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-05 20:50+0100\n"
+"POT-Creation-Date: 2010-03-15 19:57+0100\n"
 "PO-Revision-Date: 2010-02-03 02:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -21,15 +21,15 @@ msgstr ""
 #. [campaign]: id=Fate_of_a_Princess
 #: Fate_of_a_Princess/_main.cfg:23
 msgid ""
-"After the numbers of humans moved up to the Farnorth at 200YW, an elvish "
+"After the numbers of humans moved up to the far north at 200 YW, an elvish "
 "queen had two daughters in the Greenwood. When their mother died, the elder "
 "daughter became queen, but the younger left the Greenwood and was not seen "
 "for many years. When a crisis arose requiring her return, it fell to two "
 "brave young elves to make a perilous journey to find her and bring her back "
 "to her former home ...\n"
 "\n"
-"Fate of a Princess, version 0.6.4\n"
-"Required Wesnoth version: 1.7.8 or higher\n"
+"Fate of a Princess, version 0.6.5\n"
+"Required Wesnoth version: 1.7.14 or higher\n"
 "\n"
 "This is a two-part campaign totalling 25 scenarios, including some which are "
 "dialogue-only.\n"
@@ -284,6 +284,8 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:325
 #: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:116
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:114
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:126
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:169
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:116
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:140
 msgid "Death of Ishlars the Mage"
@@ -888,12 +890,6 @@ msgstr ""
 msgid "Good, because my mace arm is itching again."
 msgstr ""
 
-#. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:126
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:169
-msgid "Death of Ishlars the mage"
-msgstr ""
-
 #. [unit]: type=Elvish Druid, id=Fioniel
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:182
 msgid "Fioniel"
@@ -1096,7 +1092,7 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:153
 #: Fate_of_a_Princess/scenarios/17_Coalition_of_Orcs.cfg:161
 #: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:118
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:106
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:104
 #: Fate_of_a_Princess/scenarios/11_Dwarvish_Warden.cfg:114
 #: Fate_of_a_Princess/scenarios/13_Mountain_Path.cfg:108
 msgid "Defeat all enemy leaders"
@@ -2636,12 +2632,10 @@ msgstr ""
 msgid "Troll Warrior"
 msgstr ""
 
-#. [side]: type=Troll Shaman, id=Rok
 #. [side]: type=Great Troll, id=Great Troll
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:115
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:62
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:81
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:61
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:80
 #: Fate_of_a_Princess/scenarios/13_Mountain_Path.cfg:50
 msgid "Trolls"
 msgstr ""
@@ -2793,13 +2787,15 @@ msgstr ""
 msgid "Apakura"
 msgstr ""
 
+#. [unit_type]: id=Foap Hydra, race=monster
 #. [side]: type=Foap Hydra, id=Apakura
 #. [side]: type=Foap Hydra, id=Jata
 #. [side]: type=Naga Myrmidon, id=Milaxilis
+#: Fate_of_a_Princess/units/Foap_Hydra.cfg:4
 #: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:42
 #: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:69
 #: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:88
-msgid "Hydras"
+msgid "Hydra"
 msgstr ""
 
 #. [side]: type=Foap Hydra, id=Jata
@@ -2817,27 +2813,32 @@ msgstr ""
 msgid "Rok"
 msgstr ""
 
+#. [side]: type=Troll Shaman, id=Rok
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:115
+msgid "Troll"
+msgstr ""
+
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:130
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:133
 msgid "Move Háwclyn to the exit"
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:192
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:195
 msgid ""
 "This damp lair is tha' shortest route tae Eisheim. Unfortunately there are "
 "monsters living here now. We should try tae avoid them as far as we can."
 msgstr ""
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:196
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:199
 msgid ""
 "If we must fight, then so be it, but I would be glad to pass through "
 "peacefully. I must say, this place must become a torrent when the rains come."
 msgstr ""
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:200
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:203
 msgid ""
 "Oh yes, snow-melt collects in this cavern. In spring the sound of the "
 "waterfalls can be heard two leagues away. Last winter, some nagas followed "
@@ -2846,28 +2847,28 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:204
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:207
 msgid "We should hurry. We are running out of time to return home."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:241
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:244
 #: Fate_of_a_Princess/scenarios/18_Dragon_Cave.cfg:821
 msgid "A chest of gold! That's a stroke o' fortune!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:269
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:272
 msgid "Gold! That's a stroke o' good luck!"
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:286
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:289
 msgid "Crystal Bow"
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:287
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:290
 msgid ""
 "Crystal Bows are extraordinary magical weapons made long ago by a dwarven "
 "stonecrafter, and given as gifts to the elves of the Silent Forest. The "
@@ -2877,7 +2878,7 @@ msgid ""
 msgstr ""
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:298
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:301
 msgid ""
 "This bow is required to handle for a  high skilled unit who is able to use "
 "bows even an elvish archer. For a human unit, perhaps, the highest skilled "
@@ -2885,7 +2886,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:305
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:308
 msgid ""
 "Oh, that is a Crystal Bow! Those were a famous gift to the elves, made by my "
 "people many centuries ago! Shoko's real father had one. He was Captain of "
@@ -2894,7 +2895,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:310
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:313
 msgid ""
 "We are finally able to have a daughter. We have named her Sioclya. Thanks, "
 "Eloh.\n"
@@ -2902,7 +2903,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:315
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:318
 msgid ""
 "Oooh! That actually used to belong to Shoko's real father! That is amazing! "
 "Her birth name was Sioclya, but I named her as Shoko because it means a "
@@ -2910,31 +2911,31 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:319
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:322
 msgid ""
 "I have always thought of you as my real father, Turuk. I care not if that "
 "sounds foolish."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:323
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:326
 msgid "Bless ye, lass. Bless ye."
 msgstr ""
 
 #. [effect]: type=pierce
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:333
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:348
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:336
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:351
 msgid "crystal bow"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:388
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:391
 msgid ""
 "The magical rune on the encampment will change a unit's alignment to Chaotic."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:393
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:396
 msgid ""
 "A chaos rune! Ye ken, I have heard that trolls are sometimes born as lawful "
 "creatures, fearing the night an' unafraid tae move by day. Troll Shamans use "
@@ -2942,60 +2943,60 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:397
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:400
 msgid ""
 "I have heard that trolls are not actually born. One troll buds off another "
 "smaller troll, which then grows on its own."
 msgstr ""
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:401
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:404
 msgid "Then, there are no troll women? That's extraordinary!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:405
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:408
 msgid "I wonder if that magic rune might work on one o' my followers?"
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:441
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:444
 msgid "Ancestors' beards, it worked!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:469
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:472
 msgid ""
 "Only innately magical races, such as trolls or drakes, can use these runes."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:483
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:486
 msgid "Farewell, father... Now I will see my dear mother again..."
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:487
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:490
 msgid "Shoko! This parting breaks my heart."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:508
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:511
 msgid "Northwards! We cannae rest yet, there may be another monster to slay!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:525
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:528
 msgid "Graaaaaaaa!"
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:529
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:532
 msgid "Keep moving, keep moving."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:549
+#: Fate_of_a_Princess/scenarios/14_Hydra_Cavern.cfg:552
 msgid "Move on! We cannae tarry here! More monsters may come!"
 msgstr ""
 
@@ -3167,27 +3168,27 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Yeti, id=Yeti
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:35
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:34
 msgid "Yetis"
 msgstr ""
 
 #. [side]: type=Yeti, id=Yeti
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:38
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:37
 msgid "Snow Man"
 msgstr ""
 
 #. [side]: type=Great Troll, id=Great Troll
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:60
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:59
 msgid "Tsok"
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:80
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:79
 msgid "Äg"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:177
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:175
 msgid ""
 "This is the shortest route, but we must beware of trolls.\n"
 "Täkel! You stay in Eisheim! There are not any maidens in Trolls."
@@ -3195,26 +3196,26 @@ msgstr ""
 
 #. [message]: id=Takel
 #. [message]: id=Ukyle
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:181
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:337
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:179
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:335
 #: Fate_of_a_Princess/scenarios/21_Fate_of_a_Princess.cfg:292
 msgid "....."
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:188
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:186
 msgid "I find the yetis a bigger worry."
 msgstr ""
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:192
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:190
 msgid ""
 "They just want to be left alone. As long as we do not disturb them, they "
 "will not harm us."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:197
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:195
 msgid ""
 "You can now recruit Snow Shaman. \n"
 "Caution: Healing is not in Snow Shaman's ability. It might be at the next "
@@ -3222,56 +3223,56 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:215
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:213
 msgid "No, that is Yeti's village. That will provoke  them!"
 msgstr ""
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:236
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:234
 msgid "I warned you that do not disturb them."
 msgstr ""
 
 #. [message]
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:259
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:257
 msgid ""
 "I never thought I would see yetis fighting for us! What fearsome creatures "
 "they are!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:275
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:273
 msgid "Aaaarh"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:285
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:283
 msgid "All right! There is another one at south. Be hurry!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:302
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:300
 msgid "Aaaarh... ME ... beaten?"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:312
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:310
 msgid "All right! There is another one at north. Be hurry!"
 msgstr ""
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:321
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:319
 msgid "I hope the yetis will have some peace now."
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:333
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:331
 msgid ""
 "Täkel! I told you to go back to Eisheim! I make you a stone if you do not "
 "listen to me."
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:344
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:342
 msgid ""
 "Hm, this silly silver horse stayed with us in peace too long. He cannot even "
 "remember how to talk anymore. I do not have any choice any longer, except "
@@ -3279,19 +3280,19 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:374
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:372
 msgid "Eh ..."
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:378
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:376
 msgid ""
 "Haha, not to worry, son of Elen-Grail. That was a little sorcery. He will be "
 "back to normal less than a half day."
 msgstr ""
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:384
+#: Fate_of_a_Princess/scenarios/16_Ice_Monsters.cfg:382
 msgid "Let us get out of here."
 msgstr ""
 
@@ -4767,32 +4768,33 @@ msgid "matchlock"
 msgstr ""
 
 #. [unit_type]: id=Foap Dwarvish Dragonguard, race=dwarf
-#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:39
+#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:41
 msgid ""
-"It is not entirely clear how the Dragonguards gained their name. Some "
-"speculate that the name comes from their weapon of choice, a strange staff "
-"that belches fire, death and thunder. Others think it is because such "
-"weapons would be a threat against even a true dragon, should such a thing be "
-"seen again in the known world. Whatever the case, the guardians of the great "
-"dwarven citadels are both renowned and feared, for they carry weapons that "
-"have slain even the mightiest of warriors with a single thunderclap."
+"Warden Turuk of the Dwarves is one of the most respected non-drakes in the "
+"entire mountains of Dorth. He is a member of the cadre of dwarven warriors "
+"known as Dragonguards, who gained their name, so most people believe, from "
+"their weapon of choice, a strange staff that belches fire, death and "
+"thunder. Turuk claims to know everything there is to know about the "
+"mountains of Dorth, and so far no-one has ever found his knowledge wanting. "
+"He lives in the halls of Falci-Nyess the drake Lord, and he and the drake "
+"have supposedly been friends 'since Turuk's beard was less than an inch "
+"long'.\n"
+"\n"
+"Turuk is a skilled leader, used to having his orders followed instantly. His "
+"dragonstaff is loaded at all times while he is on duty, and as he has often "
+"said, 'A Warden is ne'er off duty, ye ken.'"
 msgstr ""
 
 #. [attack]: type=blade
 #: Fate_of_a_Princess/units/Southern_Shooter.cfg:25
 #: Fate_of_a_Princess/units/Southern_Goblin.cfg:24
-#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:60
+#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:62
 msgid "dagger"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:69
+#: Fate_of_a_Princess/units/Foap_Dragonguard.cfg:71
 msgid "dragonstaff"
-msgstr ""
-
-#. [unit_type]: id=Foap Hydra, race=monster
-#: Fate_of_a_Princess/units/Foap_Hydra.cfg:4
-msgid "Hydra"
 msgstr ""
 
 #. [unit_type]: id=Foap Hydra, race=monster
@@ -4949,8 +4951,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Fate_of_a_Princess/units/Orcish_Shaman.cfg:25
-#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:34
-#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:33
+#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:102
+#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:101
 #: Fate_of_a_Princess/units/Mage_Rider.cfg:41
 #: Fate_of_a_Princess/units/Orcish_Witch_Doctor.cfg:25
 #: Fate_of_a_Princess/units/Mage_Dragoon.cfg:43
@@ -4961,14 +4963,14 @@ msgstr ""
 #: Fate_of_a_Princess/units/Snow_Druid.cfg:45
 #: Fate_of_a_Princess/units/Snow_Fairy.cfg:51
 #: Fate_of_a_Princess/units/Snow_Shaman.cfg:45
-#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:44
-#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:43
+#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:112
+#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:111
 msgid "entangle"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:55
-#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:54
+#: Fate_of_a_Princess/units/Ice_Enchantress.cfg:123
+#: Fate_of_a_Princess/units/Ice_Sorceress.cfg:122
 msgid "ice flash"
 msgstr ""
 

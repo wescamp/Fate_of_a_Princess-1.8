@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-15 19:57+0100\n"
+"POT-Creation-Date: 2010-03-20 16:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,8 +21,8 @@ msgstr ""
 msgid ""
 "After the numbers of humans moved up to the far north at 200 YW, an elvish queen had two daughters in the Greenwood. When their mother died, the elder daughter became queen, but the younger left the Greenwood and was not seen for many years. When a crisis arose requiring her return, it fell to two brave young elves to make a perilous journey to find her and bring her back to her former home ...\n"
 "\n"
-"Fate of a Princess, version 0.6.5\n"
-"Required Wesnoth version: 1.7.14 or higher\n"
+"Fate of a Princess, version 0.6.6\n"
+"Required Wesnoth version: 1.7.13 or higher\n"
 "\n"
 "This is a two-part campaign totalling 25 scenarios, including some which are dialogue-only.\n"
 "\n"
@@ -3586,7 +3586,7 @@ msgstr ""
 
 #. [unit_type]: id=Drake Battler, race=drake
 #: ./Fate_of_a_Princess/units/Drake_Battler.cfg:21
-msgid "Although the damage of hits for Drake Battler is less than one in Drake Blademaster, the number of hits is over. In addition, the golden armor protects it as well."
+msgid "Although the Drake Battlers' strikes are less powerful than their Blademaster counterparts, they are more dexterous, and can strike more often. They are also better proteceted by their golden armour."
 msgstr ""
 
 #. [attack]: type=blade
@@ -4273,7 +4273,7 @@ msgstr ""
 
 #. [unit_type]: id=Sword Drake, race=drake
 #: ./Fate_of_a_Princess/units/Sword_Drake.cfg:20
-msgid "Although the damage of hits for Sword Drake is less than one in Drake Warrior, the number of hits is four each. In addition, the golden armor protects it as well."
+msgid "Sword Drakes are Drakes from the Fighter Caste who take a different path from the Warriors. They eschew their Warblades, and take swords instead. Because the sword isn't as hard-hitting as a Warblade, they deal less damage, a tradeoff which is justified with the increased maneouverabillity swords have, which allow them to strike more often."
 msgstr ""
 
 #. [unit_type]: id=Tomahawk, race=mechanical

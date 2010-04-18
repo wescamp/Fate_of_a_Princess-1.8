@@ -1,7 +1,7 @@
 #textdomain wesnoth-Fate_of_a_Princess
 
 
----Information---
+---Informations---
 
 The portraits of Háwclyn: galtrid.png (Legend of Wesmere)
 
@@ -73,9 +73,7 @@ Rogue Mage, Shadow Mage, and Shadow Lord: from Liberty
 
 Dwarvish Runesmith: from Scepter of Fire
 
-Elvish Major: from Under the Burning Suns
-
-Snow Fairy (healing anim. only): from Under the Burning Suns
+Elvish Officer (some attack images): from Under the Burning Suns
 
 Drake Alchemist as the base unit: from Legend of Wesmere (before got into the mainline)
 

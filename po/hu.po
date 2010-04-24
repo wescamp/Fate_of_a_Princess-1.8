@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-04-19 17:57+0200\n"
-"PO-Revision-Date: 2010-03-23 20:32+0100\n"
+"PO-Revision-Date: 2010-04-21 18:11+0100\n"
 "Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,6 @@ msgstr "Egy hercegnő végzete"
 
 #. [campaign]: id=Fate_of_a_Princess
 #: Fate_of_a_Princess/_main.cfg:23
-#, fuzzy
 msgid ""
 "After the numbers of humans moved up to the far north at 200 YW, an elvish "
 "queen had two daughters in the Greenwood. When their mother died, the elder "
@@ -46,11 +45,11 @@ msgstr ""
 "merész tünde ifjú életét kockáztatva kereste meg, s hozta vissza az ifjabb "
 "hercegnőt korábbi hazájába...\n"
 "\n"
-"Egy hercegnő végzete, 0.6.7 verzió\n"
+"Egy hercegnő végzete, 0.7.1 verzió\n"
 "Szükséges Wesnoth-verzió: 1.7.13 vagy újabb\n"
 "\n"
-"Kétrészes, összesen 25 küldetést tartalmazó hadjárat, ebből néhány szöveges "
-"átvezetés.\n"
+"Kétrészes, összesen 22-25 küldetést tartalmazó hadjárat, ebből néhány "
+"szöveges átvezetés.\n"
 "\n"
 "Ez még egy korai változat; hibák előfordulhatnak, néhány küldetés "
 "kiegyensúlyozása folyamatban van. Bármilyen visszajelzést köszönettel "
@@ -420,6 +419,8 @@ msgid ""
 "Ah-oh, I will join the battle now anyway.\n"
 "My loyal horse! Come to me!"
 msgstr ""
+"Ah-oh, mindenképpen csatlakozok a csatához.\n"
+"Hűséges lovacskám! Ide hozzám!"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:373
@@ -533,6 +534,9 @@ msgid ""
 "Right-click an enemy that you would like to attack in three hexes from "
 "Cannon, then follow the menu."
 msgstr ""
+"A messzehordó ágyú használatának módja:\n"
+"Jobb-klikk az ellenségre, akit meg akarsz támadni, s aki legfeljebb három "
+"mezőnyire van, aztán kövesd a menüt."
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:117
@@ -5580,7 +5584,7 @@ msgstr "flinta"
 #. [unit_type]: id=Cavalryman Foap, race=human
 #: Fate_of_a_Princess/units/Foap_Cavalryman.cfg:4
 msgid "Cavalryman"
-msgstr ""
+msgstr "Huszár"
 
 #. [unit_type]: id=Cavalryman Foap, race=human
 #: Fate_of_a_Princess/units/Foap_Cavalryman.cfg:23
@@ -5594,6 +5598,14 @@ msgid ""
 "Cavalrymen are very useful for taking and holding positions on open ground, "
 "for screening friendly soldiers, and also for scouting work."
 msgstr ""
+"A huszárok elkülönülnek a többi lovastól taktikájuk és fegyverzetük révén. A "
+"huszár súlyos vértet és pajzsot hord, valamint kardot visel kopja helyett. "
+"Támadási formáik közül hiányzik a rohamozás, ehelyett különböző manővereket "
+"végeznek, és karddal sújtanak ellenségeikre, s lovuk erejét is felhasználják "
+"a harcban.\n"
+"\n"
+"A huszárok nagyon alkalmasak a nyílt mezőn állást foglalni, s azt védeni, de "
+"a baráti egységek fedezésére és felderítésre is kiválóan alkalmasak."
 
 #. [unit_type]: id=Foap Dwarvish Runesmith, race=dwarf
 #: Fate_of_a_Princess/units/Foap_Runesmith.cfg:4
@@ -6250,7 +6262,7 @@ msgstr "jeges csapás"
 #. [unit_type]: id=Sniper, race=human
 #: Fate_of_a_Princess/units/Sniper.cfg:4
 msgid "Sniper"
-msgstr ""
+msgstr "Orvlövész"
 
 #. [unit_type]: id=Sniper, race=human
 #: Fate_of_a_Princess/units/Sniper.cfg:21
@@ -6261,6 +6273,11 @@ msgid ""
 "hold the ground they take. Their mobility and resilience make them of great "
 "value on the battlefield."
 msgstr ""
+"Wesnoth legkiválóbb huszárait kiképezik a számszeríj használatára is, s a "
+"legerősebb lovakat adják alájuk. Páncélozottak, kiválóan forgatják "
+"kardjukat, ezek a zsoldosok előrenyomulva szilárdan tartják elfoglalt "
+"állásaikat. Mozgékonyságuk és rugalmasságuk a csataterek egyik legfontosabb "
+"szereplőjévé avatta őket."
 
 #. [unit_type]: id=Snow Druid, race=fairy
 #: Fate_of_a_Princess/units/Snow_Druid.cfg:4
@@ -6651,7 +6668,7 @@ msgstr "védekezés (+10-zel nőnek az ellenállások, nincs gyógyulás)"
 #. [advancement]: id=foap_amla_leadership
 #: Fate_of_a_Princess/utils/FoaP-amla.cfg:86
 msgid "leadership (new ability, no heal full)"
-msgstr ""
+msgstr "hadvezetés (új képesség, nincs felgyógyulás)"
 
 #. [advancement]: id=foap_amla_dagger
 #: Fate_of_a_Princess/utils/FoaP-amla.cfg:115
@@ -6666,7 +6683,7 @@ msgstr "karbantartás (+2 sebzés távolsági támadásoknál, nincs gyógyulás
 #. [advancement]: id=foap_amla_leadership_l4
 #: Fate_of_a_Princess/utils/FoaP-amla.cfg:145
 msgid "leadership level 4 (a new ability, no heal full)"
-msgstr ""
+msgstr "4-es szintű hadvezetés (új képesség, nincs felgyógyulás)"
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/utils/FoaP-deaths.cfg:11

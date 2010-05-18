@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-28 00:19+0200\n"
+"POT-Creation-Date: 2010-05-18 10:36+0200\n"
 "PO-Revision-Date: 2010-02-03 02:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -27,7 +27,7 @@ msgid ""
 "brave young elves to make a perilous journey to find her and bring her back "
 "to her former home ...\n"
 "\n"
-"Fate of a Princess, version 0.7.2\n"
+"Fate of a Princess, version 0.7.3\n"
 "Required Wesnoth version: 1.8.0 or later\n"
 "\n"
 "This is a two-part campaign totalling 22-25 scenarios, including some which "
@@ -145,7 +145,7 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/07_Broken_Treaty.cfg:52
 #: Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:116
 #: Fate_of_a_Princess/scenarios/20_Striking_Back.cfg:138
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:31
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:32
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:31
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:32
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:26
@@ -156,8 +156,8 @@ msgstr ""
 #. [side]: type=Fugitive Dragoon, id=Baldres
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:35
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:28
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:29
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:34
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:37
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:35
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:34
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:35
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:29
@@ -168,8 +168,8 @@ msgstr ""
 #. [side]: type=Grand Knight, id=Straker
 #. [side]: type=Lieutenant, id=Linx
 #. [side]: type=Knight, id=Oworraent
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:47
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:65
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:48
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:66
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:49
 msgid "Haldric III"
 msgstr ""
@@ -244,8 +244,8 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:157
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:96
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:317
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:129
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:121
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:137
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:122
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:118
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:161
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:108
@@ -257,8 +257,8 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:161
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:100
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:321
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:133
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:125
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:141
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:126
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:122
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:165
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:112
@@ -270,8 +270,8 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:165
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:104
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:325
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:137
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:129
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:145
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:130
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:126
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:169
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:116
@@ -289,9 +289,9 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:333
 #: Fate_of_a_Princess/scenarios/10_In_the_Swamps.cfg:144
 #: Fate_of_a_Princess/scenarios/10_In_the_Swamps.cfg:407
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:145
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:153
 #: Fate_of_a_Princess/scenarios/07_Broken_Treaty.cfg:91
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:137
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:138
 #: Fate_of_a_Princess/scenarios/11_Dwarvish_Warden.cfg:134
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:134
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:177
@@ -430,17 +430,17 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Grand Knight, id=Straker
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:50
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:51
 msgid "General Straker"
 msgstr ""
 
 #. [side]: type=Lieutenant, id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:68
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:69
 msgid "Linx"
 msgstr ""
 
 #. [message]: id=Straker
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:91
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:92
 msgid ""
 "You are under arrest! I am General Straker. Baron Baldres, it's time for you "
 "to answer for your crimes! Don't think you can escape into the northern "
@@ -448,25 +448,25 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:95
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:96
 msgid "I've fought those border guards before. Their skulls are hard to split."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:99
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:100
 msgid ""
 "We'll have to beat them to cross the Great River. We can do it. We must!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:103
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:104
 msgid ""
 "Bah. The old general's getting careless. I could fit an army through the "
 "openings he's left me. Watch."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:108
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:109
 msgid ""
 "How to use the multi-hex attacks of Cannon:\n"
 "Right-click an enemy that you would like to attack in three hexes from "
@@ -474,7 +474,7 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:117
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:118
 msgid "Move both caravans over the Great River"
 msgstr ""
 
@@ -482,8 +482,8 @@ msgstr ""
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:169
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:108
 #: Fate_of_a_Princess/scenarios/03b_Traveling_North.cfg:329
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:141
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:133
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:149
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:134
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:130
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:173
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:120
@@ -491,44 +491,44 @@ msgid "Destruction of a caravan"
 msgstr ""
 
 #. [unit]: type=Foap Caravan, id=Caravan 1
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:175
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:176
 msgid "Treasure Caravan"
 msgstr ""
 
 #. [unit]: type=Foap Caravan, id=Caravan 2
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:186
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:187
 msgid "Supply Caravan"
 msgstr ""
 
 #. [unit_type]: id=Cannon, race=mechanical
 #. [unit]: type=Cannon, id=Cannon
 #: Fate_of_a_Princess/units/Cannon.cfg:4
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:197
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:198
 msgid "Cannon"
 msgstr ""
 
 #. [unit]: type=Horseman, id=Siddry
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:208
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:209
 msgid "Siddry"
 msgstr ""
 
 #. [unit]: type=Dragoon, id=Convan
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:218
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:219
 msgid "Convan"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:305
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:306
 msgid "Aaaack! I regret to report... I am no longer... fit for duty..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:315
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:316
 msgid "Aaaack! Baldres ... you ... cannot ... escape forever."
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:341
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:342
 msgid ""
 "Farewell, Wesnoth, and thank you for your generosity! Now to set out for our "
 "new home, wherever that may be. With this fortune, we could ride for a "
@@ -536,7 +536,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:361
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:362
 msgid "We are too late! We've been cut off from the border."
 msgstr ""
 
@@ -554,14 +554,14 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Fugitive Dragoon, id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:26
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:34
 msgid "humans"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Marshal
 #. [side]: type=Elvish Lieutenant, id=Hawclyn
 #. [side]: type=Elvish Royal, id=Eameral
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:46
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:54
 #: Fate_of_a_Princess/scenarios/08_Queen_Eameral.cfg:24
 #: Fate_of_a_Princess/scenarios/08_Queen_Eameral.cfg:40
 #: Fate_of_a_Princess/scenarios/07_Broken_Treaty.cfg:35
@@ -571,69 +571,69 @@ msgid "elf"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Marshal
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:49
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:57
 msgid "Kalathriel"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Zholas
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:69
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:77
 msgid "dwarf"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Zholas
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:72
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:80
 msgid "Zholas"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:94
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:102
 msgid ""
 "Keep alert. It only takes one patrol to bring another general's whole army "
 "down on us."
 msgstr ""
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:98
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:106
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than any "
 "Wesnoth generals, sir!"
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:107
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:115
 msgid ""
 "Keep alert. It only takes one patrol to bring Straker's whole army down on "
 "us."
 msgstr ""
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:111
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:119
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than Straker, "
 "sir!"
 msgstr ""
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:117
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:125
 msgid ""
 "There are two routes we could take, My Lord, but there's little to choose "
 "between them."
 msgstr ""
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:125
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:133
 msgid "Move both caravans to the top of the map"
 msgstr ""
 
 #. [effect]: type=blade
 #. [object]: id=greenwood_blade, description=This is an enchanted magical sword of the highest quality; elven in make, and bearing the crowned sigil of the royal elven family of the Greenwood.
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:166
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:203
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:174
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:211
 msgid "greenwood blade"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:189
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:197
 msgid ""
 "Oooh, it is one of legends of Greenwood!! must be the Greenwood Blade!! If "
 "my memory is right, this belongs to the royal elven family of the Greenwood. "
@@ -642,65 +642,65 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:193
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:201
 msgid ""
 "Haha! What a stroke of luck! I just wish this sort of thing happened more "
 "often."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:286
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:294
 msgid "Elves! Watch out!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:290
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:298
 msgid "Goodness. Their women really are astonishingly beautiful, are they not?"
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:294
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:302
 msgid ""
 "Bah! There's no meat on any elf I've ever seen. They're all twig creatures!"
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:304
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:312
 msgid "Dwarvish soldiers! I'd never realized they were so muscular."
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:308
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:316
 msgid "Don't let them distract you too much, Trooper Jil, if you please."
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:312
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:320
 msgid "But when you saw the elves, you Oh. I see. Fine. Yes, My Lord."
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:334
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:342
 msgid "I think we should keep moving north."
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:338
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:346
 msgid "Perhaps an orcish settlement might be an easier target."
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:347
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:355
 msgid "The Dragonbreath Machine is almost ready, My Lord."
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:351
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:359
 msgid "Oh, that's it's name today, is it?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:396
+#: Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:404
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:422
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:683
 msgid "We've spent too long fighting! It's over."
@@ -1170,7 +1170,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:425
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:643
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:632
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:636
 msgid "Aaaargh! ...Something more dangerous will happen..."
 msgstr ""
 
@@ -1220,12 +1220,12 @@ msgstr ""
 
 #. [message]: id=Jil
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:359
-msgid "Hmmm... Is stepping this sign good for us?"
+msgid "Hmmm... Is stepping on this sign good for us?"
 msgstr ""
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:384
-msgid "Hey, lizard! What are those signs?"
+msgid "Hey, lizard! Tell us what those signs are?"
 msgstr ""
 
 #. [message]: id=Slixxik
@@ -1236,7 +1236,7 @@ msgstr ""
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:393
 msgid ""
-"Come on! You are a local lizard. \n"
+"Come! You are a local lizard. \n"
 "Alright, we do not have to listen to what the stone head saurian said. We "
 "may be able to find some treasures here."
 msgstr ""
@@ -1269,7 +1269,7 @@ msgstr ""
 
 #. [message]: id=Ishlars
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:465
-msgid "Oh, that is the same sign we saw at close to the entrance."
+msgid "Ooh, that is the same sign we saw at close to the entrance."
 msgstr ""
 
 #. [message]: id=Ishlars
@@ -1279,7 +1279,7 @@ msgstr ""
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:574
-msgid "Here you are. I know that there are always some treasures in caves."
+msgid "Here you are. I knew that there are always some treasures in caves."
 msgstr ""
 
 #. [message]: id=Cione
@@ -1294,23 +1294,30 @@ msgstr ""
 msgid "That is what I said!"
 msgstr ""
 
-#. [message]: id=Baldres
+#. [message]: id=Cione
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:616
+msgid ""
+"Especially you, an eyepatch on! It seems you have a lot of desire in your "
+"mind. Desires develop humans, but also ruin themselves."
+msgstr ""
+
+#. [message]: id=Baldres
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:620
 msgid "Whatever you say, we just go! It's not your business!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:642
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:646
 msgid "Gaaagrh"
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:646
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:650
 msgid "Look! The wall on the other side is moving!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:662
+#: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:666
 msgid "Get out this spooky place as soon as possible, everyone!"
 msgstr ""
 
@@ -1337,7 +1344,7 @@ msgstr ""
 #. [side]: type=Saurian Flanker, id=Xizzyx
 #. [unit]: type=Saurian Flanker, id=Xizzyx
 #: Fate_of_a_Princess/scenarios/10_In_the_Swamps.cfg:44
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:415
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:424
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:51
 msgid "Xizzyx"
 msgstr ""
@@ -3379,7 +3386,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/17_Coalition_of_Orcs.cfg:272
 #: Fate_of_a_Princess/scenarios/18_Dragon_Cave.cfg:956
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:520
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:534
 msgid "No, no, you will not go on without me."
 msgstr ""
 
@@ -3844,55 +3851,55 @@ msgid "Run out of Turns"
 msgstr ""
 
 #. [unit]: type=Armageddon Drake, id=Gadora
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:224
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:231
 msgid "Gadora Matursk"
 msgstr ""
 
 #. [unit]: type=Armageddon Drake, id=Dodora
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:235
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:242
 msgid "Dodora Matursk"
 msgstr ""
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:425
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:434
 msgid ""
 "... More eager orc-killerss! Tcchhtt! Make way! Ssave ssome for uss! Hsss-"
 "sss-sss!"
 msgstr ""
 
 #. [message]: id=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:429
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:438
 msgid "Oh, Xizzyx! Bless you! Your timing is as good as ever!"
 msgstr ""
 
 #. [message]: id=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:533
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:547
 msgid ""
 "Uh, I do not believe Ghidsaurs got defeated! It is a time to go home for us."
 msgstr ""
 
 #. [message]: id=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:546
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:560
 msgid "Xizzyx! Nooooo! You cannot finish your life now!!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:556
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:570
 msgid "We have spent too much time."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:566
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:580
 msgid "Aaaarck! ...The whole northlands was supposed to be our paradise..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:576
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:590
 msgid "Aaaargh!! ... Hu humans?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:616
+#: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:630
 msgid ""
 "From 237YW onwards, the southern cities of the Farnorth and port at Prestim "
 "remained a human outpost. Even though orcs had been attacking to retake "
@@ -5187,7 +5194,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Fate_of_a_Princess/units/Shadow_Mage.cfg:27
+#: Fate_of_a_Princess/units/Shadow_Mage.cfg:34
 #: Fate_of_a_Princess/units/Rogue_Mage.cfg:23
 msgid "short sword"
 msgstr ""
@@ -5278,7 +5285,7 @@ msgid "Shadow Lord"
 msgstr ""
 
 #. [unit_type]: id=Shadow Lord, race=human
-#: Fate_of_a_Princess/units/Shadow_Lord.cfg:21
+#: Fate_of_a_Princess/units/Shadow_Lord.cfg:28
 msgid ""
 "Few humans fathom the secrets of light and dark magic and retain their "
 "sanity. Those that can master that balance become Shadow Lords, fully "
@@ -5288,17 +5295,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Fate_of_a_Princess/units/Shadow_Lord.cfg:73
+#: Fate_of_a_Princess/units/Shadow_Lord.cfg:80
 msgid "astral blade"
 msgstr ""
 
 #. [attack]: type=cold
-#: Fate_of_a_Princess/units/Shadow_Lord.cfg:84
+#: Fate_of_a_Princess/units/Shadow_Lord.cfg:91
 msgid "shadow bolt"
 msgstr ""
 
 #. [attack]: type=impact
-#: Fate_of_a_Princess/units/Shadow_Lord.cfg:96
+#: Fate_of_a_Princess/units/Shadow_Lord.cfg:103
 msgid "shadow blast"
 msgstr ""
 
@@ -5323,13 +5330,13 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Fate_of_a_Princess/units/Shadow_Mage.cfg:39
+#: Fate_of_a_Princess/units/Shadow_Mage.cfg:46
 msgid "ice blast"
 msgstr ""
 
 #. [unit_type]: id=Sniper, race=human
 #: Fate_of_a_Princess/units/Sniper.cfg:4
-msgid "Sniper"
+msgid "Mounted Bowman"
 msgstr ""
 
 #. [unit_type]: id=Sniper, race=human

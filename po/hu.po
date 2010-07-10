@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 21:53+0200\n"
-"PO-Revision-Date: 2010-04-21 18:11+0100\n"
+"PO-Revision-Date: 2010-06-29 13:18+0100\n"
 "Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +21,6 @@ msgstr "Egy hercegnő végzete"
 
 #. [campaign]: id=Fate_of_a_Princess
 #: Fate_of_a_Princess/_main.cfg:25
-#, fuzzy
 msgid ""
 "After the numbers of humans moved up to the far north at 200 YW, an elvish "
 "queen had two daughters in the Greenwood. When their mother died, the elder "
@@ -46,8 +46,8 @@ msgstr ""
 "merész tünde ifjú életét kockáztatva kereste meg, s hozta vissza az ifjabb "
 "hercegnőt korábbi hazájába...\n"
 "\n"
-"Egy hercegnő végzete, 0.7.1 verzió\n"
-"Szükséges Wesnoth-verzió: 1.7.13 vagy újabb\n"
+"Egy hercegnő végzete, 0.7.4-es verzió\n"
+"Szükséges Wesnoth-verzió: 1.8.0 vagy újabb\n"
 "\n"
 "Kétrészes, összesen 22-25 küldetést tartalmazó hadjárat, ebből néhány "
 "szöveges átvezetés.\n"
@@ -1165,7 +1165,6 @@ msgstr "A vadonban"
 
 #. [part]
 #: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:9
-#, fuzzy
 msgid ""
 "After breaking a happiness between an ogre and an elf, Baldres and his "
 "followers were keep going to the north. A long journey on horseback brought "
@@ -1371,13 +1370,11 @@ msgstr "Valaki eljut a kijárathoz"
 
 #. [message]: id=Jil
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:359
-#, fuzzy
 msgid "Hmmm... Is stepping on this sign good for us?"
 msgstr "Hmmm... És mi van, ha rálépek erre a jelre?"
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:384
-#, fuzzy
 msgid "Hey, lizard! Tell us what those signs are?"
 msgstr "Héjj, te gyík! Mik azok a jelek?"
 
@@ -1388,14 +1385,13 @@ msgstr "Pontosan nem is tudom, de inkább el kéne kerülnünk."
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:393
-#, fuzzy
 msgid ""
 "Come! You are a local lizard. \n"
 "Alright, we do not have to listen to what the stone head saurian said. We "
 "may be able to find some treasures here."
 msgstr ""
 "Gyertek! Ez csak egy gyík.\n"
-"Ne hallgassatok a fafejű gyíkra. Biztos valami kincs rejtőzik itt valahol."
+"Ne hallgassatok a fafejű gyíkra! Biztos valami kincs rejtőzik itt valahol."
 
 #. [message]: id=Jil
 #: Fate_of_a_Princess/utils/FoaP-event-utils.cfg:31
@@ -1425,7 +1421,6 @@ msgstr "Höö! Egy szellem! Egy szellem bukkant fel a szakadékból!"
 
 #. [message]: id=Ishlars
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:465
-#, fuzzy
 msgid "Ooh, that is the same sign we saw at close to the entrance."
 msgstr "Ez ugyanaz a jel, mint amit a bejáratnál láttunk."
 
@@ -1436,7 +1431,6 @@ msgstr "Remélem, ha rálépek, az szerencsét hoz nekünk."
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:574
-#, fuzzy
 msgid "Here you are. I knew that there are always some treasures in caves."
 msgstr "Itt van. Tudtam, hogy a barlangok mélyén kincsek rejtőznek."
 
@@ -1460,6 +1454,9 @@ msgid ""
 "Especially you, an eyepatch on! It seems you have a lot of desire in your "
 "mind. Desires develop humans, but also ruin themselves."
 msgstr ""
+"Különösen neked nem való, te félszemű. Túl sok szenvedély fűt téged. A "
+"szenvedélyek nagy dolgokra késztetik az embereket, de romba is dönthetik "
+"őket."
 
 #. [message]: id=Baldres
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:620
@@ -2261,7 +2258,6 @@ msgstr ""
 
 #. [message]: speaker=Merllow
 #: Fate_of_a_Princess/scenarios/09_Over_the_River.cfg:480
-#, fuzzy
 msgid ""
 "It's Gulder. That dangerous half-elven wizard suddenly appeared with many of "
 "southern orcs. He uses the same spiritual arts that Gulcyn the wizard used "
@@ -4448,7 +4444,7 @@ msgstr "Túl sok időt elpazaroltunk."
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:590
 msgid "Aaaarck! ...The whole northlands was supposed to be our paradise..."
-msgstr ""
+msgstr "Aaaarck! ...Az egész észak a mi paradicsomunk lehetett volna..."
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/18b_At_Prestim.cfg:600
@@ -4846,7 +4842,6 @@ msgstr "Hahahaha, azt hittétek, meg tudtok ölni??"
 
 #. [message]: id=Gulder
 #: Fate_of_a_Princess/scenarios/21_Fate_of_a_Princess.cfg:604
-#, fuzzy
 msgid ""
 "Hahaha, I will show you how much power I got.\n"
 "Come on solders! Show yourselves!"
@@ -6274,7 +6269,7 @@ msgstr "jeges csapás"
 #. [unit_type]: id=Sniper, race=human
 #: Fate_of_a_Princess/units/Sniper.cfg:4
 msgid "Mounted Bowman"
-msgstr ""
+msgstr "Lovas íjász"
 
 #. [unit_type]: id=Sniper, race=human
 #: Fate_of_a_Princess/units/Sniper.cfg:21

@@ -28,11 +28,11 @@ items/images:
 
 *ladder.png from “Struggle for Freedom” by WYRMY
 
-*caravan.png, and the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
+*the base image of foap-book.png from “The Unstoppable Legion” by Chris NS
 
 
 Special weapon (WML): 
-*Straight lightning from Light Focusing of “Era of Magic” by inferno8
+*heavenly fire from Light Focusing of “Era of Magic” by inferno8
       
 
 Unit Informations:
@@ -58,7 +58,7 @@ Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus
 
 From: Era of Magic (by inferno8)
 
-Orcish Berserker and Southern Orc.
+Orcish Berserker
 
 ---------------------------------------------------------------------------
 

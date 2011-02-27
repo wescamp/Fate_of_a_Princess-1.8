@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-01-30 21:24+0100\n"
+"POT-Creation-Date: 2011-02-27 17:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2743,7 +2743,12 @@ msgid "I am Háwclyn, son of Elen-Garil, from Elengavion Castle in the southern 
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:259
+#: ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:255
+msgid "Eh! What?"
+msgstr ""
+
+#. [message]: speaker=Turuk
+#: ./Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:263
 msgid "Oho! Elen-Garil’s son an’ Zluld’s daughter, seeking the elven sorceress I talked about? This is clearly a mission of some importance to your people. Is it, by chance, connected to these sudden attacks by southern orcs, and the strange behaviour o’ their shamans? Come wi’ me and tell me what has come to pass in your city."
 msgstr ""
 

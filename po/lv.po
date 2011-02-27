@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-01-30 21:24+0100\n"
+"POT-Creation-Date: 2011-02-27 17:34+0100\n"
 "PO-Revision-Date: 2010-02-03 02:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -3505,7 +3505,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:259
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:255
+msgid "Eh! What?"
+msgstr ""
+
+#. [message]: speaker=Turuk
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:263
 msgid ""
 "Oho! Elen-Garil’s son an’ Zluld’s daughter, seeking the elven sorceress I "
 "talked about? This is clearly a mission of some importance to your people. "
